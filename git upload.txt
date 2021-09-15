@@ -1,0 +1,13 @@
+touch .gitignore
+git init
+git add .
+git commit -m "name of commit"
+git remote add origin (url)
+git push origin master
+$ ssh-keygen -t ed25519 -C "uhaseeb348@gmail.com"
+ /c/Users/uhase/.ssh/id_ed25519.pub
+tail (path key)
+key to git hub account
+
+
+
